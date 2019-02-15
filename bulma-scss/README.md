@@ -14,3 +14,5 @@
   ]
 }
 ````
+
+- Add `node-sass sass-loader` in your dev dependency using yarn or npm to your project
