@@ -1,0 +1,22 @@
+{
+  "name": "@tonuxt/bulma-scss",
+  "version": "1.0.0",
+  "description": "Bulma SCSS integration for Nuxt",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlivierBelaud/-tonuxt.git"
+  },
+  "author": "Olivier Belaud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OlivierBelaud/-tonuxt/issues"
+  },
+  "homepage": "https://github.com/OlivierBelaud/-tonuxt#readme"
+}
