@@ -4,11 +4,6 @@
   "description": "Bulma SCSS integration for Nuxt",
   "main": "index.js",
   "scripts": {
-    "lint": "node ./no-script.js",
-    "test": "node ./no-script.js",
-    "precommit": "yarn lint & yarn test",
-    "commit": "git add . && git commit -m",
-    "push": "git push",
     "npm-publish": "yarn publish --access public"
   },
   "publishConfig": {

@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "All the npm from toNuxt",
   "scripts": {
-    "git": "git add . && git commit -m 'global commit'",
-    "postgit": "git push"
+    "commit": "git add . && git commit -m",
+    "postcommit": "git push"
   },
   "author": "Olivier Belaud",
   "license": "MIT"
