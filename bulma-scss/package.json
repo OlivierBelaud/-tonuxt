@@ -22,6 +22,5 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.7.2",
     "bulma": "^0.7.4"
-  },
-  "gitHead": "02d5089a72ec4b00bb805a90e0a93c3295d25f68"
+  }
 }
